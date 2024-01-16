@@ -1,0 +1,20 @@
+{
+  "name": "Consulta_imei",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danieligor56/Consultar-IMEI.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danieligor56/Consultar-IMEI/issues"
+  },
+  "homepage": "https://github.com/danieligor56/Consultar-IMEI#readme"
+}
